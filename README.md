@@ -8,6 +8,8 @@ Submit a pull request and ping reviewers on mattermost to get it approved.
 
 ## How to test a blog post
 
+
+
 Before opening a 'pull request' you may want to see how the blog post renders with Jekyll.
 
 ### locally
